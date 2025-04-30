@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Manikandan 👋
 
-<!--
-**MK-Manikandan/MK-Manikandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Automotive Engineer with a growing enthusiasm for Artificial Intelligence and Machine Learning. Currently, I'm immersing myself in AI/ML concepts and exploring how they can be applied to solve complex engineering challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+
+- Learning Python, Machine Learning, and Deep Learning
+- Building personal AI/ML projects
+- Expanding knowledge in data science and model deployment
+
+---
+
+### 🛠️ Skills
+
+- Solid foundation in mechanical and aerospace engineering
+- Basics of Python, NumPy, Pandas, and Scikit-learn
+- Enthusiastic learner of AI/ML frameworks like TensorFlow and PyTorch
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/manikandan--m)
+- Email: manikantanm06mk@gmail.com
+
+---
+
+*Always building. Always learning.*
