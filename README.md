@@ -22,7 +22,7 @@ I'm an Automotive Engineer with a growing enthusiasm for Artificial Intelligence
 
 ### 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/manikandan--m)
+- [LinkedIn](https://www.linkedin.com/in/manikandan--m)
 - Email: manikantanm06mk@gmail.com
 
 ---
